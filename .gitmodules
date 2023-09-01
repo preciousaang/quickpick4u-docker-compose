@@ -1,0 +1,9 @@
+[submodule "qp4u-frontend"]
+	path = qp4u-frontend
+	url = git@gitlab.com:quickpick4u/qp4ufrontend-ts.git
+[submodule "qp4u-backend"]
+	path = qp4u-backend
+	url = git@gitlab.com:quickpick4u/quickpick4u-backend.git
+[submodule "qp4u-admin"]
+	path = qp4u-admin
+	url = git@gitlab.com:quickpick4u/quickpick4u-admin.git
